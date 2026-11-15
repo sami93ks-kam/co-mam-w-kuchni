@@ -1,0 +1,23 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+.android-emulator/
+
+# Build outputs - publish APKs via Releases
+*.apk
+*.aab
+
+# Signing keys - never commit
+*.jks
+*.keystore
+keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
