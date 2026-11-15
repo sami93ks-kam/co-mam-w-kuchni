@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Co mam w kuchni?</string>
+    <style name="Theme.Kitchen" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">#F4F4EC</item>
+        <item name="android:colorAccent">#21543E</item>
+        <item name="android:statusBarColor">#163B2E</item>
+        <item name="android:navigationBarColor">#163B2E</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
